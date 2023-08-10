@@ -79,10 +79,10 @@ Data Analysis Process:
     80.00% is the highest stolen base percentage and 68.20% is the lowest. There is a 17% percent change going from 68.20SB% to 80.00SB%. (%change of SB%)
 
 
-![SB%vs.YEARTable](ScreenShot2023-08-09at5.47.56PM.png "SB%vs.YEARTable")
+![SB%vs.YEARTable](1.1.png "SB%vs.YEARTable")
 
 
-![ScreenshotSB%change](ScreenShot2023-08-08at11.34.39PM.png"ScreenshotSB%change")
+![ScreenshotSB%change](1.2.png"ScreenshotSB%change")
 
 
 
@@ -91,8 +91,6 @@ Data Analysis Process:
 2. One being the row for SB% (stolen base percentage) and the other being the year so that we can identify if the percentage change is an increase or decrease over time. 
 3. Now, copy and paste the highest and lowest SB%’s pivot table rows into the spreadsheet and use the equation (New-Old)/Old to find this value. 
 
-.
-
 
 
 2. How has the rate of the “bunt” hit changed from 1998 to 2023? Which year has the highest bunt rate?
@@ -100,7 +98,7 @@ Data Analysis Process:
     The rate has slowly decreased and overall, its usage has gone down 59.91% from 1998 to 2023.
 
 
-![]("")
+![](2.1"")
 
 
 1. Use a VLOOKUP formula in order to match the years 2023-1998 from the base running sheet with the Bunt rate found in the hitlocation sheet.
@@ -114,10 +112,7 @@ Data Analysis Process:
 
 
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
+![](3.1.png"")
 
 
 
@@ -130,18 +125,10 @@ Data Analysis Process:
     Years which had the highest linedrive rates were 2020, 2002, 2015, 2016, and 2000. The lowest years were 1984, 1967, 1945, 1943, and 1946.
 
 
+![](4.1.png "")
 
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.png "image_tooltip")
-
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.png "image_tooltip")
+![](4.2.png "")
 
 
 
@@ -152,14 +139,8 @@ Data Analysis Process:
 
 The two years in which the rate of linedrives increased the most was 1988 and 1986.
 
-	
 
-
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image9.png "image_tooltip")
+![](5.1.png "")
 
 
 
