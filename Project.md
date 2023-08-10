@@ -59,21 +59,13 @@ Data Visualization:
 1.The following line chart is of stolen base percentage among MLB players over the last 25 years.
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![https://datawrapper.dwcdn.net/jQfAV/1/](jQfAV-stolen-base-success-rate-sb-over-time-in-mlb.png "SB%vs.Time")
+![https://datawrapper.dwcdn.net/jQfAV/1/](jQfAV-stolen-base-success-rate-sb-over-time-in-mlb.png "SB%vs.Time")(https://datawrapper.dwcdn.net/jQfAV/1/)
 
 
 2. The following line chart is of the bunt rate of MLB players along a 25 year time period.
 
 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![https://datawrapper.dwcdn.net/ty1WR/1/](ty1WR-bunt-rate-over-time-in-mlb.png "BuntVS.Time")
+![https://datawrapper.dwcdn.net/ty1WR/1/](ty1WR-bunt-rate-over-time-in-mlb.png "BuntVS.Time")(https://datawrapper.dwcdn.net/ty1WR/1/)
 
 
 Data Analysis Process:
@@ -84,23 +76,13 @@ Data Analysis Process:
 
 1. What are the highest and lowest stolen base percentages? Compare the percentages and calculate the percent increase or decrease between them.
 
-    80.00% is the highest stolen base percentage and 68.20% is the lowest. There is a 17% percent change going from 68.20SB% to 80.00SB%. 
+    80.00% is the highest stolen base percentage and 68.20% is the lowest. There is a 17% percent change going from 68.20SB% to 80.00SB%. (%change of SB%)
 
 
+![](Screen Shot 2023-08-09 at 5.47.56 PM.png"SB%vs.YEARTable")
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
-
-
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
+![](Screen Shot 2023-08-08 at 11.34.39 PM.png"ScreenshotSB%change")
 
 
 
@@ -115,15 +97,10 @@ Data Analysis Process:
 
 2. How has the rate of the “bunt” hit changed from 1998 to 2023? Which year has the highest bunt rate?
 
-    The rate has slowly decreased and overall, it’s usage has gone down 59.91% from 1998 to 2023.
+    The rate has slowly decreased and overall, its usage has gone down 59.91% from 1998 to 2023.
 
 
-    
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
+![]("")
 
 
 1. Use a VLOOKUP formula in order to match the years 2023-1998 from the base running sheet with the Bunt rate found in the hitlocation sheet.
