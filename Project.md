@@ -19,22 +19,18 @@ Sources:
 
 1. Paul Bien Vice President of San Fransisco Giants Analytics
 
-     [pbien@sfgiants.com](mailto:pbien@sfgiants.com)
+    [pbien@sfgiants.com](mailto:pbien@sfgiants.com)
+   650-823-9642
 
 
- 650-823-9642
-
-
-    As one of the premiere analytics teams in baseball, the San Fransisco Giants’ team is one that is knowledgeable about trends in baseball and revered throughout sports for their dependency on numbers. Bien, who is the VP and head of this sector, is someone who is useful for this topic.
+   As one of the premiere analytics teams in baseball, the San Fransisco Giants’ team is one that is knowledgeable about trends in baseball and revered throughout sports for their dependency on numbers. Bien, who is the VP and head of this sector, is someone who is useful for this topic.
 
 
 
-2. Jeff Passan: ESPN baseball analyst
+3. Jeff Passan: ESPN baseball analyst
 
     [ jeff.passan@espn.com](mailto:jeff.passan@espn.com)
-
-
-816-808-2539
+   816-808-2539
 
 
     As an analyst at ESPN, Passan is knowledgable on how these trends happen and what cause them. He is a credible source who is known for understanding the dynamics of baseball extremely well.
@@ -56,7 +52,7 @@ Additional Sources:
 
 Data Visualization:
 
-1.The following line chart is of stolen base percentage among MLB players over the last 25 years.
+1. The following line chart is of stolen base percentage among MLB players over the last 25 years.
 
 
 ![https://datawrapper.dwcdn.net/jQfAV/1/](jQfAV-stolen-base-success-rate-sb-over-time-in-mlb.png "SB%vs.Time")(https://datawrapper.dwcdn.net/jQfAV/1/)
