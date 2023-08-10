@@ -79,10 +79,10 @@ Data Analysis Process:
     80.00% is the highest stolen base percentage and 68.20% is the lowest. There is a 17% percent change going from 68.20SB% to 80.00SB%. (%change of SB%)
 
 
-![](Screen Shot 2023-08-09 at 5.47.56 PM.png"SB%vs.YEARTable")
+![SB%vs.YEARTable](Screen Shot 2023-08-09 at 5.47.56 PM.png "SB%vs.YEARTable")
 
 
-![](Screen Shot 2023-08-08 at 11.34.39 PM.png"ScreenshotSB%change")
+![ScreenshotSB%change](Screen Shot 2023-08-08 at 11.34.39 PM.png "ScreenshotSB%change")
 
 
 
