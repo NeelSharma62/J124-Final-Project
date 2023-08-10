@@ -79,10 +79,10 @@ Data Analysis Process:
     80.00% is the highest stolen base percentage and 68.20% is the lowest. There is a 17% percent change going from 68.20SB% to 80.00SB%. (%change of SB%)
 
 
-![SB%vs.YEARTable](1.1.png "SB%vs.YEARTable")
+![](1.1.png "")
 
 
-![ScreenshotSB%change](1.2.png"ScreenshotSB%change")
+![](1.2.png"")
 
 
 
@@ -98,7 +98,7 @@ Data Analysis Process:
     The rate has slowly decreased and overall, its usage has gone down 59.91% from 1998 to 2023.
 
 
-![ ](2.1.png" ")
+![](2.1.png"")
 
 
 1. Use a VLOOKUP formula in order to match the years 2023-1998 from the base running sheet with the Bunt rate found in the hitlocation sheet.
