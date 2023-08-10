@@ -82,7 +82,7 @@ Data Analysis Process:
 ![](1.1.png "")
 
 
-![](1.2.png"")
+![](1.2.png "")
 
 
 
@@ -98,7 +98,7 @@ Data Analysis Process:
     The rate has slowly decreased and overall, its usage has gone down 59.91% from 1998 to 2023.
 
 
-![](2.1.png"")
+![](2.1.png "")
 
 
 1. Use a VLOOKUP formula in order to match the years 2023-1998 from the base running sheet with the Bunt rate found in the hitlocation sheet.
@@ -112,7 +112,7 @@ Data Analysis Process:
 
 
 
-![](3.1.png"")
+![](3.1.png "")
 
 
 
