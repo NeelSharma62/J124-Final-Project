@@ -63,7 +63,7 @@ Data Visualization:
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![](jQfAV-stolen-base-success-rate-sb-over-time-in-mlb.png "SB%vs.Time")
+![https://datawrapper.dwcdn.net/jQfAV/1/](jQfAV-stolen-base-success-rate-sb-over-time-in-mlb.png "SB%vs.Time")
 
 
 2. The following line chart is of the bunt rate of MLB players along a 25 year time period.
