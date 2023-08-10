@@ -3,9 +3,9 @@ Data Analysis On Offensive Changes in MLB
 
 # J124 Final Project: Data Analysis and Vizualization of Offensive Style Change in Baseball (MLB) Over Time
 
-By: Neel Sharma
+By Neel Sharma
 
-Data Summary:
+## Data Summary ##
 
 In summary, my data analysis discovered that the usage of offensive tools like bunts and stolen bases are trending in opposite directions. 
 
@@ -13,7 +13,7 @@ The bunt is a dying method of batting and the usage of stolen bases is becoming 
 
 As the sport constantly changes, MLB players are also forced to make changes: do they adapt to new play styles or stick to the style that has earned them their roster spots? As the league's style changes, MLB players will also need to have different assets if they want to play. They must be fast and consistently able to bat with power. In order to check both these boxes, the league will have to scout and sign players who are alien to traditional baseball. The MLB will start to lean into players who are much taller and faster than before like Shohei Ohtani and Elly De La Cruz.
 
-Sources:
+### Sources ###
 
 
 
@@ -35,7 +35,7 @@ Sources:
 
     As an analyst at ESPN, Passan is knowledgable on how these trends happen and what cause them. He is a credible source who is known for understanding the dynamics of baseball extremely well.
 
-Additional Sources:
+### Additional Sources ###
 
 	
 
@@ -50,7 +50,7 @@ Additional Sources:
     The Northwestern Sports Analytics Group is a credible source who, in this article, discuss the lowered use of the bunt. This article touches on the concepts mentioned before in this data, and explains in depth other parts of the trend.
 
 
-Data Visualization:
+## Data Visualization ##
 
 1. The following line chart is of stolen base percentage among MLB players over the last 25 years.
 
@@ -64,7 +64,7 @@ Data Visualization:
 ![https://datawrapper.dwcdn.net/ty1WR/1/](ty1WR-bunt-rate-over-time-in-mlb.png "BuntVS.Time")(https://datawrapper.dwcdn.net/ty1WR/1/)
 
 
-Data Analysis Process:
+## Data Analysis Process ##
 
 	
 
