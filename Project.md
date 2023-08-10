@@ -98,7 +98,7 @@ Data Analysis Process:
     The rate has slowly decreased and overall, its usage has gone down 59.91% from 1998 to 2023.
 
 
-![](2.1"")
+![ ](2.1.png" ")
 
 
 1. Use a VLOOKUP formula in order to match the years 2023-1998 from the base running sheet with the Bunt rate found in the hitlocation sheet.
@@ -112,7 +112,7 @@ Data Analysis Process:
 
 
 
-![](3.1.png"")
+![ ](3.1.png" ")
 
 
 
@@ -125,10 +125,10 @@ Data Analysis Process:
     Years which had the highest linedrive rates were 2020, 2002, 2015, 2016, and 2000. The lowest years were 1984, 1967, 1945, 1943, and 1946.
 
 
-![](4.1.png "")
+![ ](4.1.png " ")
 
 
-![](4.2.png "")
+![ ](4.2.png " ")
 
 
 
@@ -140,7 +140,7 @@ Data Analysis Process:
 The two years in which the rate of linedrives increased the most was 1988 and 1986.
 
 
-![](5.1.png "")
+![ ](5.1.png " ")
 
 
 
